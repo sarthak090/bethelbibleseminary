@@ -135,7 +135,8 @@ const Home: NextPage = () => {
       </div>
       {/* <Framer   /> */}
       <div className="container mx-auto px-16 lg:px-24 ">
-        {/* Latest news */}
+        {/* Latest news
+        Latest news */}
 
         <LatestNews />
 
