@@ -1,0 +1,421 @@
+[
+  {
+    "label": "Know Boshen",
+    "url": "/tag/info/",
+    "subNav": [
+      {
+        "label": "院長歡迎辭",
+        "slug": "/welcome-4"
+      },
+      {
+        "label": "簡史",
+        "slug": "/bo-te-li-shen-xue-yuan-jian-shi"
+      },
+      {
+        "label": "院歌及院訓",
+        "slug": "/motto"
+      },
+      {
+        "label": "信仰",
+        "slug": "/faith"
+      },
+      {
+        "label": "異象、使命宣言及核心價值",
+        "slug": "/vmc"
+      },
+      {
+        "label": "宗旨‧目標",
+        "slug": "/purpose"
+      },
+      {
+        "label": "教育理念",
+        "slug": "/philosophy"
+      },
+      {
+        "label": "認可資格",
+        "slug": "/accredited"
+      },
+      {
+        "label": "架構組織",
+        "slug": "/organization"
+      },
+      {
+        "label": "評估制度及結果",
+        "slug": "/development"
+      },
+      {
+        "label": "畢業率",
+        "slug": "/graduationrates"
+      }
+    ]
+  },
+  {
+    "label": "Enroll in Boshen",
+    "url": "/tag/adm/",
+    "subNav": [
+      {
+        "label": "疫情期間入學申請特別安排",
+        "slug": "/yi-qing-qi-jian-ru-xue-shen-qing-te-bie-an-pai"
+      },
+      {
+        "label": "招生日期",
+        "slug": "/enrol"
+      },
+      {
+        "label": "入讀報名費",
+        "slug": "/fee"
+      },
+      {
+        "label": "學費及資助",
+        "slug": "/xue-fei-ji-zi-zhu"
+      },
+      {
+        "label": "入學申請程序",
+        "slug": "/apply"
+      },
+      {
+        "label": "新生簡介會",
+        "slug": "/om"
+      },
+      {
+        "label": "聯絡入學處",
+        "slug": "/contact-admission-dept"
+      }
+    ]
+  },
+  {
+    "label": "Course Overview",
+    "url": "/tag/course/",
+    "subNav": [
+      {
+        "label": "學科簡介",
+        "slug": "/course"
+      },
+      {
+        "label": "博士",
+        "slug": "/dg"
+      },
+      {
+        "label": "碩士",
+        "slug": "/pg"
+      },
+      {
+        "label": "學士",
+        "slug": "/ug"
+      },
+      {
+        "label": "雙學位銜接課程",
+        "slug": "/shuang-xue-wei-xian-jie-ke-cheng"
+      },
+      {
+        "label": "深造文憑",
+        "slug": "/pdip"
+      },
+      {
+        "label": "深造證書",
+        "slug": "/pcert"
+      },
+      {
+        "label": "文憑",
+        "slug": "/dip"
+      },
+      {
+        "label": "證書",
+        "slug": "/cert"
+      },
+      {
+        "label": "臨床牧關教育",
+        "slug": "/cpe"
+      },
+      {
+        "label": "課程概覽",
+        "slug": "/catalogue"
+      }
+    ]
+  },
+  {
+    "label": "teaching team",
+    "url": "/tag/teaching-team/",
+    "subNav": [
+      {
+        "label": "講師介紹",
+        "slug": "/lecturer"
+      },
+      {
+        "label": "師資",
+        "slug": "/mode"
+      }
+    ]
+  },
+  {
+    "label": "Academic Affairs and Registration",
+    "url": "/tag/as/",
+    "subNav": [
+      {
+        "label": "兩年開科表",
+        "slug": "/two_years_cycle"
+      },
+      {
+        "label": "學期時間表",
+        "slug": "/timetable"
+      },
+      {
+        "label": "設先修之學科",
+        "slug": "/ro_coursereg"
+      },
+      {
+        "label": "畢業規則",
+        "slug": "/ro_rcd"
+      },
+      {
+        "label": "各類申請表格",
+        "slug": "/ge-lei-shen-qing-biao-ge"
+      },
+      {
+        "label": "學分及學歷承認規則",
+        "slug": "/ro_crex"
+      },
+      {
+        "label": "教務資訊",
+        "slug": "/as"
+      },
+      {
+        "label": "註冊資訊",
+        "slug": "/ro"
+      },
+      {
+        "label": "開科日期及上課地點",
+        "slug": "/kai-ke-ri-qi-ji-shang-ke-di-dian"
+      },
+      {
+        "label": "畢業資訊",
+        "slug": "/grad"
+      },
+      {
+        "label": "聯絡教務及註冊處",
+        "slug": "/ro_contact"
+      },
+      {
+        "label": "繳費及手續費須知",
+        "slug": "/pymt"
+      }
+    ]
+  },
+  {
+    "label": "Bethel Counseling Center",
+    "url": "/tag/counseling-centre/",
+    "subNav": [
+      {
+        "label": "簡介",
+        "slug": "/about-bpcc"
+      },
+      {
+        "label": "中心課程",
+        "slug": "/zhong-xin-ke-cheng"
+      },
+      {
+        "label": "Prepare/Erich 課程",
+        "slug": "/prepare-erich-ke-cheng"
+      },
+      {
+        "label": "輔導服務介紹",
+        "slug": "/fu-dao-fu-wu-jie-shao"
+      },
+      {
+        "label": "輔導服務登記",
+        "slug": "/fu-dao-fu-wu-deng-ji"
+      },
+      {
+        "label": "50+生命重整",
+        "slug": "/50-sheng-ming-zhong-zheng-2"
+      },
+      {
+        "label": "50+生命重整課程",
+        "slug": "/50-sheng-ming-zhong-zheng"
+      }
+    ]
+  },
+  {
+    "label": "Pastoral and believer training center",
+    "url": "/tag/extension/",
+    "subNav": [
+      {
+        "label": "簡介",
+        "slug": "/jian-jie"
+      },
+      {
+        "label": "最新課程",
+        "slug": "/zui-xin-ke-cheng"
+      },
+      {
+        "label": "兒童牧養系列",
+        "slug": "/er-tong-mu-yang-xi-lie-2"
+      },
+      {
+        "label": "青年牧養系列",
+        "slug": "/qing-nian-mu-yang-xi-lie-2"
+      },
+      {
+        "label": "崇拜牧養系列",
+        "slug": "/chong-bai-mu-yang-xi-lie"
+      },
+      {
+        "label": "金齡牧養系列",
+        "slug": "/qing-nian-mu-yang-xi-lie"
+      },
+      {
+        "label": "堂會牧養系列",
+        "slug": "/tang-hui-mu-yang-xi-lie-2"
+      },
+      {
+        "label": "深造文憑",
+        "slug": "/pdip"
+      }
+    ]
+  },
+  {
+    "label": "Boqi Urban Transformation Center",
+    "url": "/tag/ray-bakke-centre-for-urban-transformation/",
+    "subNav": [
+      {
+        "label": "中心課程預告",
+        "slug": "/ke-cheng-yu-gao"
+      },
+      {
+        "label": "教牧學博士 - 城市領導",
+        "slug": "/jiao-mu-xue-bo-shi-cheng-shi-ling-dao-3"
+      },
+      {
+        "label": "城市心26期",
+        "slug": "/cheng-shi-xin-21qi"
+      },
+      {
+        "label": "轉化型領導學博士",
+        "slug": "/zhuan-hua-xing-ling-dao-xue-bo-shi-3"
+      }
+    ]
+  },
+  {
+    "label": "Library",
+    "url": "/tag/library/",
+    "subNav": [
+      {
+        "label": "查閱館藏",
+        "slug": "/library"
+      },
+      {
+        "label": "電子資料庫",
+        "slug": "/e-databases"
+      },
+      {
+        "label": "開放時間及通告",
+        "slug": "/lib-opening-hours-notice"
+      },
+      {
+        "label": "關於本館",
+        "slug": "/guan-yu-ben-guan"
+      },
+      {
+        "label": "新書推介",
+        "slug": "/new-books"
+      }
+    ]
+  },
+  {
+    "label": "Boshen Publications",
+    "url": "/tag/pub/",
+    "subNav": [
+      {
+        "label": "事工簡報",
+        "slug": "/report"
+      },
+      {
+        "label": "伯神院訊",
+        "slug": "/bbs"
+      },
+      {
+        "label": "輔聲",
+        "slug": "/bpcc"
+      },
+      {
+        "label": "城市心",
+        "slug": "/rbc"
+      }
+    ]
+  },
+  {
+    "label": "Support Boshen",
+    "url": "/tag/support/",
+    "subNav": [
+      {
+        "label": "成為同行者",
+        "slug": "/bc"
+      },
+      {
+        "label": "代禱誌",
+        "slug": "/prayer"
+      },
+      {
+        "label": "奉獻支持",
+        "slug": "/donation"
+      }
+    ]
+  },
+  {
+    "label": "Notice and Contact",
+    "url": "/tag/circular-contact/",
+    "subNav": [
+      {
+        "label": "最新通告",
+        "slug": "/zui-xin-tong-gao-2"
+      },
+      {
+        "label": "聯絡我們",
+        "slug": "/contact-2"
+      },
+      {
+        "label": "校園開放時間",
+        "slug": "/untitled-3"
+      },
+      {
+        "label": "學期內各部門辦公時間",
+        "slug": "/untitled-4"
+      },
+      {
+        "label": "颱風及黑色暴雨警告訊號",
+        "slug": "/tai-feng-ji-hei-se-bao-yu-jing-gao-xun-hao"
+      },
+      {
+        "label": "來往伯特利神學院方法",
+        "slug": "/lai-wang-bo-te-li-shen-xue-yuan-fang-fa"
+      },
+      {
+        "label": "加入伯神",
+        "slug": "/jia-ru-bo-shen-2"
+      }
+    ]
+  },
+  {
+    "label": "Related Links",
+    "url": "/tag/links/",
+    "subNav": [
+      {
+        "label": "伯特利教會",
+        "slug": "/bethel-org-hk"
+      },
+      {
+        "label": "加拿大阿基狄亞大學",
+        "slug": "/acadiadiv-ca"
+      },
+      {
+        "label": "校友會",
+        "slug": "/bethelbsaa-org"
+      }
+    ]
+  },
+  {
+    "label": "Student Achievement",
+    "url": "/graduationrates/",
+    "subNav": []
+  }
+]
